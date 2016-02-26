@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>山哥不爱喝酸奶</title>
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2016-02-19T11:58:04.371Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>一山</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>tags</title>
+    <link href="http://yoursite.com/2016/02/19/tags/"/>
+    <id>http://yoursite.com/2016/02/19/tags/</id>
+    <published>2016-02-19T11:58:04.000Z</published>
+    <updated>2016-02-19T11:58:04.371Z</updated>
+    
+    <content type="html"></content>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>欢迎到来</title>
+    <link href="http://yoursite.com/2016/02/19/hello-world/"/>
+    <id>http://yoursite.com/2016/02/19/hello-world/</id>
+    <published>2016-02-19T08:50:59.718Z</published>
+    <updated>2016-02-19T08:50:59.718Z</updated>
+    
+    <content type="html">&lt;p&gt;不多废话&lt;/p&gt;
+&lt;h2 id=&quot;Quick_Start&quot;&gt;&lt;a href=&quot;#Quick_Start&quot; class=&quot;headerlink&quot; title=&quot;Quick Start&quot;&gt;&lt;/a&gt;Quick Start&lt;/h2&gt;&lt;h3 id=&quot;Create_a_new_post&quot;&gt;&lt;a href=&quot;#Create_a_new_post&quot; class=&quot;headerlink&quot; title=&quot;Create a new post&quot;&gt;&lt;/a&gt;Create a new post&lt;/h3&gt;</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;不多废话&lt;/p&gt;
+&lt;h2 id=&quot;Quick_Start&quot;&gt;&lt;a href=&quot;#Quick_Start&quot; class=&quot;headerlink&quot; title=&quot;Quick Start&quot;&gt;&lt;/a&gt;Quick Start&lt;/h2&gt;&lt;h3 id=&quot;Create_a_new_post
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>212</title>
+    <link href="http://yoursite.com/2016/02/19/212/"/>
+    <id>http://yoursite.com/2016/02/19/212/</id>
+    <published>2016-02-19T08:48:57.000Z</published>
+    <updated>2016-02-19T08:48:57.680Z</updated>
+    
+    <content type="html"></content>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
