@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2016-02-19T11:58:04.371Z</updated>
+  <updated>2016-02-26T05:27:25.719Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -16,51 +16,19 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>tags</title>
-    <link href="http://yoursite.com/2016/02/19/tags/"/>
-    <id>http://yoursite.com/2016/02/19/tags/</id>
-    <published>2016-02-19T11:58:04.000Z</published>
-    <updated>2016-02-19T11:58:04.371Z</updated>
+    <title>Welcome</title>
+    <link href="http://yoursite.com/2016/02/26/hello-world/"/>
+    <id>http://yoursite.com/2016/02/26/hello-world/</id>
+    <published>2016-02-26T05:27:25.719Z</published>
+    <updated>2016-02-26T05:27:25.719Z</updated>
     
-    <content type="html"></content>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>欢迎到来</title>
-    <link href="http://yoursite.com/2016/02/19/hello-world/"/>
-    <id>http://yoursite.com/2016/02/19/hello-world/</id>
-    <published>2016-02-19T08:50:59.718Z</published>
-    <updated>2016-02-19T08:50:59.718Z</updated>
-    
-    <content type="html">&lt;p&gt;不多废话&lt;/p&gt;
-&lt;h2 id=&quot;Quick_Start&quot;&gt;&lt;a href=&quot;#Quick_Start&quot; class=&quot;headerlink&quot; title=&quot;Quick Start&quot;&gt;&lt;/a&gt;Quick Start&lt;/h2&gt;&lt;h3 id=&quot;Create_a_new_post&quot;&gt;&lt;a href=&quot;#Create_a_new_post&quot; class=&quot;headerlink&quot; title=&quot;Create a new post&quot;&gt;&lt;/a&gt;Create a new post&lt;/h3&gt;</content>
+    <content type="html">&lt;p&gt;Hello everyone!&lt;/p&gt;
+&lt;h2 id=&quot;This_is_my_first_blog&quot;&gt;&lt;a href=&quot;#This_is_my_first_blog&quot; class=&quot;headerlink&quot; title=&quot;This is my first blog ..&quot;&gt;&lt;/a&gt;This is my first blog ..&lt;/h2&gt;&lt;h2 id=&quot;To_be_continued&quot;&gt;&lt;a href=&quot;#To_be_continued&quot; class=&quot;headerlink&quot; title=&quot;To be continued ..&quot;&gt;&lt;/a&gt;To be continued ..&lt;/h2&gt;</content>
     
     <summary type="html">
     
-      &lt;p&gt;不多废话&lt;/p&gt;
-&lt;h2 id=&quot;Quick_Start&quot;&gt;&lt;a href=&quot;#Quick_Start&quot; class=&quot;headerlink&quot; title=&quot;Quick Start&quot;&gt;&lt;/a&gt;Quick Start&lt;/h2&gt;&lt;h3 id=&quot;Create_a_new_post
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>212</title>
-    <link href="http://yoursite.com/2016/02/19/212/"/>
-    <id>http://yoursite.com/2016/02/19/212/</id>
-    <published>2016-02-19T08:48:57.000Z</published>
-    <updated>2016-02-19T08:48:57.680Z</updated>
-    
-    <content type="html"></content>
-    
-    <summary type="html">
+      &lt;p&gt;Hello everyone!&lt;/p&gt;
+&lt;h2 id=&quot;This_is_my_first_blog&quot;&gt;&lt;a href=&quot;#This_is_my_first_blog&quot; class=&quot;headerlink&quot; title=&quot;This is my first blog ..&quot;&gt;&lt;
     
     </summary>
     
